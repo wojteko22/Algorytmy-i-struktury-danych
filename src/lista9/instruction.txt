@@ -1,0 +1,8 @@
+Grafy I (18 maja)
+Wykorzystując jedną z reprezentacji grafu:
+a) Lista sąsiedztwa;
+b) Macierz sąsiedztwa; 
+c) Lista krawędzi; 
+Zaimplementuj jeden z algorytmów wyznaczania minimalnego drzewa rozpinającego:
+a) Algorytm Kruskala 
+b) Algorytm Jarníka

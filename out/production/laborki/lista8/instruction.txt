@@ -1,0 +1,15 @@
+Użyj struktury drzewiastej do zrealizowania kodowania Huffmana do zakodowania
+dowolnego ciągu znaków. Program ma umożliwiać:
+a) pobranie z pliku ciągu znaków;
+b) zakodowanie pobranego ciągu;
+c) zapisanie zakodowanego ciągu do nowego pliku;
+d) pobranie z pliku i zdekodowanie wyjściowego ciągu znaków (odtworzenie oryginału).
+
+
+
+pobranie ciągu                                      DONE
+policzenie prawdopodobieństw dla każdego znaku      DONE
+zrobienie drzewa                                    DONE
+zakodowanie ciągu                                   DONE
+zapisanie ciągu do nowego pliku                     DONE
+zdekodowanie ciągu                                  DONE
