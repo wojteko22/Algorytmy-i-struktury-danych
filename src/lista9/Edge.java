@@ -30,4 +30,11 @@ class Edge {
     public String toString() {
         return node1 + "-" + node2 + ": " + weight;
     }
+
+    //new
+    Node getOtherNode(Node node) {
+        if (getNode1().equals(node)) return getNode2();
+        if (getNode2().equals(node)) return getNode1();
+        else return null;
+    }
 }

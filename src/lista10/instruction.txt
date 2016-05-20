@@ -1,0 +1,4 @@
+Wykorzystując jedną z reprezentacji grafu wymienionych wyżej,
+zaimplementuj metodę znajdującą największą wartość długości (wag) krawędzi grafu,
+wykorzystując algorytm przeszukiwania w głąb,
+rozpoczynając od wierzchołka wskazanego z klawiatury.

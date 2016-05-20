@@ -4,7 +4,7 @@ package lista9;
  * @author Wojciech Okoński
  *         created on 16.05.2016 r.
  */
-class Node {
+public class Node {
     private String name;
     private Node parent;
 
@@ -31,5 +31,16 @@ class Node {
 
     static Node findParent(Node node) {
         return node == node.parent ? node : findParent(node.parent);
+    }
+
+    //new
+    private boolean visited;
+
+    boolean isVisited() {
+        return visited;
+    }
+
+    void setVisited(boolean visited) {
+        this.visited = visited;
     }
 }
