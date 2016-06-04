@@ -8,7 +8,7 @@ public class Node {
     private String name;
     private Node parent;
 
-    Node(String name) {
+    public Node(String name) {
         this.name = name;
         makeSet(this);
     }

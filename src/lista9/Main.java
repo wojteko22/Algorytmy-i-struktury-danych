@@ -8,6 +8,6 @@ public class Main {
     public static void main(String[] args) throws CloneNotSupportedException {
         Graph graph = GraphCreator.createGraph1();
         System.out.println("full graph:\t" + graph);
-        System.out.println("mst:\t\t"+ Kruskal.getMST(graph));
+        System.out.println("mst:\t\t" + Kruskal.getMST(graph));
     }
 }

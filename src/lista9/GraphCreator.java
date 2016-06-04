@@ -40,4 +40,24 @@ public class GraphCreator {
         graph.addEdge(f, e, 7);
         return graph;
     }
+
+    public static Graph createGraph3() {
+        Node a = new Node("a");
+        Node b = new Node("b");
+        Node c = new Node("c");
+        Node d = new Node("d");
+        Node e = new Node("e");
+        Node f = new Node("f");
+        Graph graph = new Graph();
+        graph.addEdge(a, b, 7);
+        graph.addEdge(a, c, 9);
+        graph.addEdge(a, f, 14);
+        graph.addEdge(b, d, 15);
+        graph.addEdge(b, c, 10);
+        graph.addEdge(c, d, 11);
+        graph.addEdge(c, f, 2);
+        graph.addEdge(d, e, 6);
+        graph.addEdge(e, f, 9);
+        return graph;
+    }
 }

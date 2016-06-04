@@ -1,0 +1,5 @@
+Wykorzystując jedną z reprezentacji grafu wymienionych wyżej,
+zaimplementuj algorytm Dijkstry wyznaczający najtańszą drogę
+pomiędzy dwoma dowolnymi wskazanymi z klawiatury wierzchołkami grafu.
+Program musi wyświetlić drogę, jaką należy przebyć,
+kolejne długości (wagi) krawędzi oraz łączną sumę wag krawędzi.

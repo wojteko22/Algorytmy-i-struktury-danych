@@ -1,7 +1,6 @@
 package lista9;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.PriorityQueue;
 
 /**
  * @author Wojciech Okoński
@@ -9,10 +8,12 @@ import java.util.Map;
  */
 public class ToTests {
     public static void main(String[] args) {
-        Map<Node, Integer> map = new HashMap<>();
         Node node = new Node("a");
-        map.put(node, 1);
-        map.put(node, 2);
-        System.out.println(map);
+        PriorityQueue<Node> nodes = new PriorityQueue<>((a, b) -> a.hashCode() - b.hashCode());
+        nodes.offer(node);
+        nodes.offer(node);
+        nodes.poll();
+        nodes.poll();
+        System.out.println(nodes.poll());
     }
 }
