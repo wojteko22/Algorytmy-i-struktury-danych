@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc157f48-ab37-468d-b599-e86ae84e2cf5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lista11/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lista11/instruction.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lista9/GraphTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/laborki/lista9/Edge.class" afterPath="$PROJECT_DIR$/out/production/laborki/lista9/Edge.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/laborki/lista9/Graph.class" afterPath="$PROJECT_DIR$/out/production/laborki/lista9/Graph.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/laborki/lista9/Node.class" afterPath="$PROJECT_DIR$/out/production/laborki/lista9/Node.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/laborki/lista9/ToTests.class" afterPath="$PROJECT_DIR$/out/production/laborki/lista9/ToTests.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lista9/Graph.java" afterPath="$PROJECT_DIR$/src/lista9/Graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lista9/GraphCreator.java" afterPath="$PROJECT_DIR$/src/lista9/GraphCreator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lista9/Main.java" afterPath="$PROJECT_DIR$/src/lista9/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lista9/Node.java" afterPath="$PROJECT_DIR$/src/lista9/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lista9/ToTests.java" afterPath="$PROJECT_DIR$/src/lista9/ToTests.java" />
     </list>
     <ignored path="laborki.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -914,7 +906,7 @@
       <workItem from="1464155336177" duration="1080000" />
       <workItem from="1464966325828" duration="4118000" />
       <workItem from="1465033884253" duration="54000" />
-      <workItem from="1465033965520" duration="11446000" />
+      <workItem from="1465033965520" duration="11503000" />
     </task>
     <task id="LOCAL-00001" summary="Add solution to list10">
       <created>1463744198315</created>
@@ -937,7 +929,14 @@
       <option name="project" value="LOCAL" />
       <updated>1463744283275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add solution to list10">
+      <created>1465057986873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1465057986873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -973,7 +972,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97540000" />
+    <option name="totallyTimeSpent" value="97597000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
